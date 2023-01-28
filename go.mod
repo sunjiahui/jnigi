@@ -1,3 +1,3 @@
-module tekao.net/jnigi
+module sunjiahui/jnigi
 
 go 1.12
